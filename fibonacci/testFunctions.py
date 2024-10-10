@@ -1,5 +1,5 @@
 import time
-from fibonacci import fibonacci_normal, fibonacci_memoized
+from fibonacci.fibonacci import fibonacci_normal, fibonacci_memoized
 import memory_profiler
 
 def test_function(func, inputs, trials=10):
