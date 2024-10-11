@@ -1,5 +1,6 @@
 import pytest
-from fibonacci import fibonacci_normal, fibonacci_memoized
+from source.fibonacci_bf import fibonacci as fibonacci_normal
+from source.fibonacci_mem import fibonacci as fibonacci_memoized
 
 @pytest.mark.parametrize("n, expected", [
     (0, 0),
