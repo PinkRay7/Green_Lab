@@ -1,5 +1,5 @@
 from typing import List
-def canPartitionKSubsets(self, nums: List[int], k: int) -> bool:
+def canPartitionKSubsets(nums: List[int], k: int) -> bool:
 	total = sum(nums)
 
 	if total % k:

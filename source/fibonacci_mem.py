@@ -12,6 +12,6 @@ def fibonacci(n):
       return "Wrong Input"
     return memo[n]
 
-
-# num = int(input("Enter the nth term: "))
-# print(fibonacci(num))
+if __name__ == "__main__":
+  num = int(input("Enter the nth term: "))
+  print(fibonacci(num))

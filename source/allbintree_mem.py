@@ -6,7 +6,7 @@ class TreeNode:
         self.left = left
         self.right = right
 
-def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
+def allPossibleFBT(n: int) -> List[Optional[TreeNode]]:
         if n % 2 == 0:
             return []
 

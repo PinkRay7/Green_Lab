@@ -1,6 +1,6 @@
 from typing import List
 
-def canIWin(self, maxChoosableInteger: int, desiredTotal: int) -> bool:
+def canIWin(maxChoosableInteger: int, desiredTotal: int) -> bool:
         candidate = list(range(1, maxChoosableInteger + 1))
         if sum(candidate) < desiredTotal:
             return False

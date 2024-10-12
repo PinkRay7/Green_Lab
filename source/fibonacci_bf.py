@@ -9,6 +9,8 @@ def fibonacci(num):
         num2 = series
         series = num1 + num2
         i+= 1
-# running function after taking user input
-num = int(input('Enter how many numbers needed in Fibonacci series : '))
-fibonacci(num)
+
+if __name__ == "__main__":
+    # running function after taking user input
+    num = int(input('Enter how many numbers needed in Fibonacci series : '))
+    fibonacci(num)

@@ -1,6 +1,6 @@
 from typing import List
 
-def coinChange(self, coins: List[int], amount: int) -> int:
+def coinChange(coins: List[int], amount: int) -> int:
         def dfs(memo, n):
             if memo[n]: # it's already calculated, simply return it
                 return memo[n]

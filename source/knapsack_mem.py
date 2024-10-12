@@ -1,6 +1,6 @@
 from typing import List
 
-def findTargetSumWays(self, nums: List[int], target: int) -> int:     
+def findTargetSumWays(nums: List[int], target: int) -> int:     
         dic = dict(int)
         
         def dfs(index=0, total=0):          
