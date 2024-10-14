@@ -1,0 +1,19 @@
+__run_id,__done,function_name,version,cpu_time,memory_usage,avg_cpu_time,avg_memory_usage,total_cpu_time,total_memory_usage,total_energy_usage
+run_0_repetition_0,DONE,Fibonacci,normal,8.909879;3.767947;3.731669;3.744607;3.761833,16.48;0.33;0.33;0.33;0.33, ,3.56,23.917257,17.79,0
+run_1_repetition_0,DONE,Fibonacci,memoized,8.961497;3.701079;3.743518;3.747934;3.706031,16.90;0.33;0.33;0.33;0.33, ,3.64,23.860696,18.21,0
+run_2_repetition_0,DONE,Knapsack,normal,0.000185;0.000037;0.000032;0.000029;0.000029,3.71;0.05;0.05;0.05;0.05, ,0.78,0.000919,3.90,0
+run_3_repetition_0,DONE,Knapsack,memoized,0.000215;0.000041;0.000034;0.000031;0.000031,4.13;0.05;0.05;0.05;0.05, ,0.86,0.000953,4.32,0
+run_4_repetition_0,DONE,Coin Change,normal,0.000172;0.000028;0.000024;0.000023;0.000023,4.97;0.00;0.00;0.00;0.00, ,0.99,0.000875,4.97,0
+run_5_repetition_0,DONE,Coin Change,memoized,0.000129;0.000017;0.000014;0.000014;0.000013,5.39;0.00;0.00;0.00;0.00, ,1.08,0.000581,5.39,0
+run_6_repetition_0,DONE,Levenshtein Distance,normal,0.028528;0.017015;0.016991;0.017053;0.017046,8.28;0.05;0.05;0.05;0.05, ,1.69,0.097054,8.47,0
+run_7_repetition_0,DONE,Levenshtein Distance,memoized,0.026733;0.017084;0.017109;0.017265;0.017140,8.70;0.05;0.05;0.05;0.05, ,1.78,0.095858,8.89,0
+run_8_repetition_0,DONE,Factorial,normal,0.000763;0.000150;0.000193;0.000198;0.000183,22.68;0.11;0.11;0.11;0.11, ,4.62,0.002121,23.12,0
+run_9_repetition_0,DONE,Factorial,memoized,0.000839;0.000174;0.000149;0.000146;0.000204,23.10;0.11;0.11;0.11;0.11, ,4.71,0.002126,23.54,0
+run_10_repetition_0,DONE,Matrix Chain Multiplication,normal,0.000312;0.000148;0.000140;0.000155;0.000161,3.97;0.30;0.30;0.30;0.30, ,1.03,0.001516,5.16,0
+run_11_repetition_0,DONE,Matrix Chain Multiplication,memoized,0.000338;0.000151;0.000145;0.000157;0.000167,4.39;0.30;0.30;0.30;0.30, ,1.12,0.001577,5.58,0
+run_12_repetition_0,DONE,Can I Win,normal,0.000947;0.000717;0.000685;0.000710;0.000723,8.33;3.69;3.69;3.69;3.69, ,4.62,0.004260,23.08,0
+run_13_repetition_0,DONE,Can I Win,memoized,0.001108;0.000877;0.000853;0.000866;0.000887,8.33;3.69;3.69;3.69;3.69, ,4.62,0.005172,23.08,0
+run_14_repetition_0,DONE,K-equal Sum Partitions,normal,0.000879;0.000187;0.000148;0.000183;0.000150,14.16;2.85;2.91;2.91;2.91, ,5.15,0.002041,25.76,0
+run_15_repetition_0,DONE,K-equal Sum Partitions,memoized,0.000959;0.000269;0.000279;0.000310;0.000155,14.16;2.85;2.91;2.91;2.91, ,5.15,0.002533,25.76,0
+run_16_repetition_0,DONE,All Possible Full Binary Trees,normal,0.000439;0.000115;0.000101;0.000119;0.000090,6.58;1.61;1.05;1.05;1.05, ,2.27,0.001320,11.33,0
+run_17_repetition_0,DONE,All Possible Full Binary Trees,memoized,0.000636;0.000176;0.000165;0.000165;0.000142,7.00;1.61;1.05;1.05;1.05, ,2.35,0.001919,11.75,0
