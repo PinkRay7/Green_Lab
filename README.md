@@ -1,6 +1,8 @@
 # Green_Lab
 For Project **An Empirical Study on the Energy Consumption and Performance of Python Functions with Memoization**.
 
+Time log: [https://docs.google.com/spreadsheets/d/1EkmJKP2KNaResZ4WxN30a1ULb4pReCODBMM6TnXTDCI/edit?usp=sharing]
+
 ## File Structure
 ### data_analysis
 R scripts and diagrams for experiment data analysis.
